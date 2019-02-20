@@ -62,7 +62,7 @@ img:hover {
   filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 
-<head>
+
 </head>
 <body>
 <div> Uri: The Surgical Strike
