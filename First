@@ -26,7 +26,7 @@ div.third  {
 div:hover {
 	background-color:cyan;
 }
-/*tooltip hover*/
+
 p{
 	display:none;
 	background-color:red;
