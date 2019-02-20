@@ -62,8 +62,9 @@ img:hover {
   filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 
-<head>
 
+<head>
+</head>
 <body>
 <div> Uri: The Surgical Strike
 <p>Uri movie is epic.</p>
