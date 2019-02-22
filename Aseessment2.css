@@ -1,0 +1,82 @@
+body{
+	background-color:#6797e5;
+	margin:0;
+	padding:0;
+}
+div.welcome{
+	color:white;
+	text-shadow:5px 5px 5px yellow;
+	position:absolute;
+	top:75px;
+	left:75px;
+	background-color:black;
+	opacity:0.4;
+	width:370px;
+	text-align:center;
+	font-size:xx-large;
+}
+div.logodiv{
+	position:absolute;
+	top:200px;
+	right:100px;
+}
+.logo{
+	width:50px;
+	margin-left:20px;
+}
+div.navbar{
+	position:absolute;
+	height:11%;
+	top:89%;
+	width:90%;
+	margin-left:5%;
+	background-color:#8c8e91;
+}
+li{
+	display:inline;
+	margin-left:45px;
+	color:white;
+}
+li a{
+	text-decoration:none;
+	color:white;
+}
+li:hover a{
+	color:yellow;
+}
+div.details{
+	height:500px;
+	width:95%;
+	margin-left:2.5%;
+	background-color:white;
+	margin-top:-20px;
+}
+div.det{
+	width:22%;
+	margin-left:2%;
+	background-image:linear-gradient(to right,white,blue);
+	position:absolute;
+	top:108%;
+}
+p.heading{
+	font-size:20px;
+}
+p.content::first-letter{
+	color:red;
+	font-size:xx-large;
+}
+p.content::first-line{
+	font-weight:bold;
+}
+img.hovert{
+	opacity:0.5;
+	width:100%;
+}
+img.hovert:hover{
+	opacity:1.0;
+}
+div.copyright{
+	width:95%;
+	margin-left:2.5%;
+	text-align:center;
+}
