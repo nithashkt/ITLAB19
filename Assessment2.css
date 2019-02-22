@@ -1,0 +1,57 @@
+<html>
+<head>
+	<title>PRESIDENCY</title>
+	<link rel="Stylesheet" type="text/css" href="assess.css" media="all"/>
+</head>
+<body>
+	<div>
+	<center>
+		<img src="Presidency.jpeg" width=95% height=100%/>
+	</center>
+	</div>
+	<div class="welcome">Welcome<br/>to<br/>Presidency University</div>
+	<div class="logodiv">
+		<a href="https://www.google.com/search?client=ubuntu&channel=fs&q=facebook+logo&ie=utf-8&oe=utf-8" target="new"><img src="facebook.png" class="logo"/></a>
+		<a href="https://www.google.com/search?client=ubuntu&hs=Dy7&channel=fs&ei=aGluXLLFHISoyAPk4YaADw&q=twitter+logo&oq=twitter+logo&gs_l=psy-ab.3..0i67l3j0i7i30j0j0i67j0j0i7i30j0j0i67.17459.18688..19082...0.0..0.183.984.0j7......0....1..gws-wiz.......0i71.vrq86SbZJxk" target="new"><img src="twitter.png" class="logo"/></a>
+		<a href="https://www.google.com/search?client=ubuntu&hs=vdS&channel=fs&ei=fGluXI66DZbyrAHIzpzgBg&q=instagram+logo&oq=insta+logo&gs_l=psy-ab.3.0.0i7i30l10.16028.16584..18946...0.0..0.185.709.0j5......0....1..gws-wiz.......0i71.rGsK223tx_c" target="new"><img src="insta.png" class="logo"/></a>
+	</div>
+		<div class="navbar">
+			<ul>
+				<li><a href="">HOMEPAGE</a></li>
+				<li><a href="">SOE</a></li>
+				<li><a href="">SOL</a></li>
+				<li><a href="">SOM</a></li>
+				<li><a href="">PRESIDENCY COLLEGE</a></li>
+				<li><a href="">DOWNLOADS</a></li>
+				<li><a href="">CONTACT US</a></li>
+			</ul>
+		</div>
+	<div class="details">
+		<br/>
+		<div class="det" style="left:3%;">
+			<p class="heading">PRESIDENCY UNIVERSITY</p>
+			<p class="content">Presidency Group of Institutes along with the University constitutes 7 schools and a college</p>
+		</div>
+		<div class="det" style="left:26%;">
+			<p class="heading">CAMPUS</p>
+			<img src="Campus10.jpg" class="hovert"/>
+			<p class="content">Discription about campus</p>
+		</div>
+		<div class="det" style="left:49%;">
+			<p class="heading">HOSTEL</p>
+			<img src="presidency-bangalore.jpg" class="hovert"/>
+			<p class="content">Hostel details</p>
+		</div>
+		<div class="det" style="left:72%;">
+			<p class="heading">ACTIVITIES</p>
+			<img src="Presidency1.jpeg" class="hovert"/>
+			<p class="content">Mention about various activities</p>
+		</div>
+	</div>
+	<br/>
+	<br/>
+	<div class="copyright">&copy;Copyright 2015 Presidency University</div>
+	<br/>
+	<br/>
+</body>
+</html>
